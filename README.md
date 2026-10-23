@@ -197,7 +197,7 @@ cordis.patch.yml    bundle configuration layer
 
 ## Contributing
 
-Issues and pull requests are welcome.
+Issues and pull requests are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) for the full engineering, testing, security, and release rules.
 
 1. Fork the repository and create a topic branch.
 2. Run `pnpm install` and `pnpm test`.
@@ -208,6 +208,7 @@ CI runs on Ubuntu and Windows. Release steps are documented in [PUBLISHING.md](P
 
 ## Documentation
 
+- [Contributing guide](CONTRIBUTING.md)
 - [Changelog](CHANGELOG.md)
 - [Publishing guide](PUBLISHING.md)
 - [Security policy](SECURITY.md)
