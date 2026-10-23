@@ -302,7 +302,7 @@ The archive must contain `lib/`, `cordis.patch.yml`, `README.md`, `CHANGELOG.md`
 
 ## 16. Rules for AI agents
 
-- Read this file and the relevant source before editing.
+- Read [AGENTS.md](AGENTS.md) — the DevSecOps playbook for coding agents — and this file before editing.
 - Never modify the user’s real `~/.dsh` profile or credentials unless explicitly asked.
 - Use an isolated `DSH_HOME` for integration tests.
 - Never commit, push, tag, publish, or move a tag without explicit instruction.

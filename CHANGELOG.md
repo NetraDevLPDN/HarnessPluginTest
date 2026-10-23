@@ -5,6 +5,7 @@
 ### Added
 
 - `CONTRIBUTING.md`: architecture, coding, testing, security, packaging, and release rules.
+- `AGENTS.md`: DevSecOps playbook for coding agents.
 
 ### Changed
 

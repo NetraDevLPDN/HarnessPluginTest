@@ -197,7 +197,7 @@ cordis.patch.yml    bundle configuration layer
 
 ## Contributing
 
-Issues and pull requests are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) for the full engineering, testing, security, and release rules.
+Issues and pull requests are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) for the full engineering, testing, security, and release rules. AI coding agents must also read [AGENTS.md](AGENTS.md), the DevSecOps playbook.
 
 1. Fork the repository and create a topic branch.
 2. Run `pnpm install` and `pnpm test`.
